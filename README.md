@@ -15,8 +15,8 @@ import MenuPopWindow from '/你项目存放的地方Where your project is stored
 `
 
 支持的自定义属性/allow props<br>
-`
+```
 item的数据源:dataArray / data source:this.props.dataArray
 
 判断是否可见:show / Judgment is visible:this.props.show
-`
+```
